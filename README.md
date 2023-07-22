@@ -1,4 +1,10 @@
 # K-nearest neigbors - Diabetes prediction
+
+#### K-nearest neigbors (KNN)
+Knn classifies data into the classes based on its distance from k number of its closest data points. Typically,
+we use the Euclidean distance to determine which data point is the closest. It will classify the current data point
+to the same class that most of the closest k data points belong to.
+
 #### Dataset
 The [dataset](https://www.kaggle.com/datasets/mathchi/diabetes-data-set) contains 768 rows and 9 columns that represents
 various health parameters. The goal is to predict if user has Diabetes based on other health parameters.
