@@ -1,4 +1,4 @@
-# K-nearest neigbors - Diabetes prediction
+# K-nearest neighbors - Diabetes prediction
 
 #### K-nearest neigbors (KNN)
 Knn classifies data into the classes based on its distance from k number of its closest data points. Typically,
